@@ -42,5 +42,6 @@ The dashboard provides a comprehensive view of total sales, average sales, item 
 
 ## 📂 Project Files
 - Blinkit Dashboard (.pbix)
-- Dataset (if included)
-- Dashboard Screenshot
+- Blinkit Dataset (.csv / .xlsx)
+- Dashboard Screenshot (dashboard.png)
+
